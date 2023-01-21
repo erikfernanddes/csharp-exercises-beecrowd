@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex003-1004_beecrownd\bin\Debug\net7.0\Ex003-1004_beecrownd.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex003-1004_beecrownd\bin\Debug\net7.0\Ex003-1004_beecrownd.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex003-1004_beecrownd\bin\Debug\net7.0\Ex003-1004_beecrownd.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex003-1004_beecrownd\bin\Debug\net7.0\Ex003-1004_beecrownd.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex003-1004_beecrownd\bin\Debug\net7.0\Ex003-1004_beecrownd.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex003-1004_beecrownd\obj\Debug\net7.0\Ex003-1004_beecrownd.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex003-1004_beecrownd\obj\Debug\net7.0\Ex003-1004_beecrownd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex003-1004_beecrownd\obj\Debug\net7.0\Ex003-1004_beecrownd.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex003-1004_beecrownd\obj\Debug\net7.0\Ex003-1004_beecrownd.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex003-1004_beecrownd\obj\Debug\net7.0\Ex003-1004_beecrownd.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex003-1004_beecrownd\obj\Debug\net7.0\Ex003-1004_beecrownd.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex003-1004_beecrownd\obj\Debug\net7.0\refint\Ex003-1004_beecrownd.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex003-1004_beecrownd\obj\Debug\net7.0\Ex003-1004_beecrownd.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex003-1004_beecrownd\obj\Debug\net7.0\Ex003-1004_beecrownd.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex003-1004_beecrownd\obj\Debug\net7.0\ref\Ex003-1004_beecrownd.dll

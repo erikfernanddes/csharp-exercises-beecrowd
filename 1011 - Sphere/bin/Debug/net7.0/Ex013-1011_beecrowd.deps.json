@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ex013-1011_beecrowd/1.0.0": {
+        "runtime": {
+          "Ex013-1011_beecrowd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex013-1011_beecrowd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

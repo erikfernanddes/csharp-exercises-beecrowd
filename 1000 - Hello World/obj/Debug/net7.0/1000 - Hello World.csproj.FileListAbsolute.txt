@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1000 - Hello World\bin\Debug\net7.0\1000 - Hello World.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1000 - Hello World\bin\Debug\net7.0\1000 - Hello World.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1000 - Hello World\bin\Debug\net7.0\1000 - Hello World.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1000 - Hello World\bin\Debug\net7.0\1000 - Hello World.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1000 - Hello World\bin\Debug\net7.0\1000 - Hello World.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1000 - Hello World\obj\Debug\net7.0\1000 - Hello World.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1000 - Hello World\obj\Debug\net7.0\1000 - Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1000 - Hello World\obj\Debug\net7.0\1000 - Hello World.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1000 - Hello World\obj\Debug\net7.0\1000 - Hello World.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1000 - Hello World\obj\Debug\net7.0\1000 - Hello World.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1000 - Hello World\obj\Debug\net7.0\1000 - Hello World.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1000 - Hello World\obj\Debug\net7.0\refint\1000 - Hello World.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1000 - Hello World\obj\Debug\net7.0\1000 - Hello World.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1000 - Hello World\obj\Debug\net7.0\1000 - Hello World.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1000 - Hello World\obj\Debug\net7.0\ref\1000 - Hello World.dll

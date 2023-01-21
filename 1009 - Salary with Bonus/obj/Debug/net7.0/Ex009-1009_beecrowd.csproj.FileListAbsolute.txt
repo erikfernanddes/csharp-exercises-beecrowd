@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex009-1009_beecrowd\bin\Debug\net7.0\Ex009-1009_beecrowd.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex009-1009_beecrowd\bin\Debug\net7.0\Ex009-1009_beecrowd.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex009-1009_beecrowd\bin\Debug\net7.0\Ex009-1009_beecrowd.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex009-1009_beecrowd\bin\Debug\net7.0\Ex009-1009_beecrowd.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex009-1009_beecrowd\bin\Debug\net7.0\Ex009-1009_beecrowd.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex009-1009_beecrowd\obj\Debug\net7.0\Ex009-1009_beecrowd.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex009-1009_beecrowd\obj\Debug\net7.0\Ex009-1009_beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex009-1009_beecrowd\obj\Debug\net7.0\Ex009-1009_beecrowd.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex009-1009_beecrowd\obj\Debug\net7.0\Ex009-1009_beecrowd.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex009-1009_beecrowd\obj\Debug\net7.0\Ex009-1009_beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex009-1009_beecrowd\obj\Debug\net7.0\Ex009-1009_beecrowd.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex009-1009_beecrowd\obj\Debug\net7.0\refint\Ex009-1009_beecrowd.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex009-1009_beecrowd\obj\Debug\net7.0\Ex009-1009_beecrowd.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex009-1009_beecrowd\obj\Debug\net7.0\Ex009-1009_beecrowd.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex009-1009_beecrowd\obj\Debug\net7.0\ref\Ex009-1009_beecrowd.dll

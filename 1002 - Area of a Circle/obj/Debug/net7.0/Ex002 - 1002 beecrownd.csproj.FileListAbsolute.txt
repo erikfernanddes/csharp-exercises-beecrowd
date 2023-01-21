@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex002 - 1002 beecrownd\bin\Debug\net7.0\Ex002 - 1002 beecrownd.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex002 - 1002 beecrownd\bin\Debug\net7.0\Ex002 - 1002 beecrownd.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex002 - 1002 beecrownd\bin\Debug\net7.0\Ex002 - 1002 beecrownd.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex002 - 1002 beecrownd\bin\Debug\net7.0\Ex002 - 1002 beecrownd.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex002 - 1002 beecrownd\bin\Debug\net7.0\Ex002 - 1002 beecrownd.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex002 - 1002 beecrownd\obj\Debug\net7.0\Ex002 - 1002 beecrownd.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex002 - 1002 beecrownd\obj\Debug\net7.0\Ex002 - 1002 beecrownd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex002 - 1002 beecrownd\obj\Debug\net7.0\Ex002 - 1002 beecrownd.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex002 - 1002 beecrownd\obj\Debug\net7.0\Ex002 - 1002 beecrownd.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex002 - 1002 beecrownd\obj\Debug\net7.0\Ex002 - 1002 beecrownd.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex002 - 1002 beecrownd\obj\Debug\net7.0\Ex002 - 1002 beecrownd.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex002 - 1002 beecrownd\obj\Debug\net7.0\refint\Ex002 - 1002 beecrownd.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex002 - 1002 beecrownd\obj\Debug\net7.0\Ex002 - 1002 beecrownd.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex002 - 1002 beecrownd\obj\Debug\net7.0\Ex002 - 1002 beecrownd.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Ex002 - 1002 beecrownd\obj\Debug\net7.0\ref\Ex002 - 1002 beecrownd.dll
