@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1015\bin\Debug\net7.0\1015.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1015\bin\Debug\net7.0\1015.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1015\bin\Debug\net7.0\1015.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1015\bin\Debug\net7.0\1015.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1015\bin\Debug\net7.0\1015.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1015\obj\Debug\net7.0\1015.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1015\obj\Debug\net7.0\1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1015\obj\Debug\net7.0\1015.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1015\obj\Debug\net7.0\1015.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1015\obj\Debug\net7.0\1015.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1015\obj\Debug\net7.0\1015.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1015\obj\Debug\net7.0\refint\1015.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1015\obj\Debug\net7.0\1015.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1015\obj\Debug\net7.0\1015.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\Beecrowd\1015\obj\Debug\net7.0\ref\1015.dll
