@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1041 - Coordinates of a Point\bin\Debug\net7.0\1041 - Coordinates of a Point.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1041 - Coordinates of a Point\bin\Debug\net7.0\1041 - Coordinates of a Point.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1041 - Coordinates of a Point\bin\Debug\net7.0\1041 - Coordinates of a Point.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1041 - Coordinates of a Point\bin\Debug\net7.0\1041 - Coordinates of a Point.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1041 - Coordinates of a Point\bin\Debug\net7.0\1041 - Coordinates of a Point.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1041 - Coordinates of a Point\obj\Debug\net7.0\1041 - Coordinates of a Point.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1041 - Coordinates of a Point\obj\Debug\net7.0\1041 - Coordinates of a Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1041 - Coordinates of a Point\obj\Debug\net7.0\1041 - Coordinates of a Point.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1041 - Coordinates of a Point\obj\Debug\net7.0\1041 - Coordinates of a Point.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1041 - Coordinates of a Point\obj\Debug\net7.0\1041 - Coordinates of a Point.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1041 - Coordinates of a Point\obj\Debug\net7.0\1041 - Coordinates of a Point.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1041 - Coordinates of a Point\obj\Debug\net7.0\refint\1041 - Coordinates of a Point.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1041 - Coordinates of a Point\obj\Debug\net7.0\1041 - Coordinates of a Point.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1041 - Coordinates of a Point\obj\Debug\net7.0\1041 - Coordinates of a Point.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1041 - Coordinates of a Point\obj\Debug\net7.0\ref\1041 - Coordinates of a Point.dll
