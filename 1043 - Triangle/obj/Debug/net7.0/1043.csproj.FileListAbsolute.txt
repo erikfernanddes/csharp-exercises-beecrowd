@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1043\bin\Debug\net7.0\1043.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1043\bin\Debug\net7.0\1043.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1043\bin\Debug\net7.0\1043.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1043\bin\Debug\net7.0\1043.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1043\bin\Debug\net7.0\1043.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1043\obj\Debug\net7.0\1043.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1043\obj\Debug\net7.0\1043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1043\obj\Debug\net7.0\1043.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1043\obj\Debug\net7.0\1043.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1043\obj\Debug\net7.0\1043.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1043\obj\Debug\net7.0\1043.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1043\obj\Debug\net7.0\refint\1043.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1043\obj\Debug\net7.0\1043.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1043\obj\Debug\net7.0\1043.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1043\obj\Debug\net7.0\ref\1043.dll
