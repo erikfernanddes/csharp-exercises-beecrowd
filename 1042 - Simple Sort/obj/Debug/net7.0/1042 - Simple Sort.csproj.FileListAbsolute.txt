@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1042 - Simple Sort\bin\Debug\net7.0\1042 - Simple Sort.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1042 - Simple Sort\bin\Debug\net7.0\1042 - Simple Sort.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1042 - Simple Sort\bin\Debug\net7.0\1042 - Simple Sort.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1042 - Simple Sort\bin\Debug\net7.0\1042 - Simple Sort.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1042 - Simple Sort\bin\Debug\net7.0\1042 - Simple Sort.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1042 - Simple Sort\obj\Debug\net7.0\1042 - Simple Sort.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1042 - Simple Sort\obj\Debug\net7.0\1042 - Simple Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1042 - Simple Sort\obj\Debug\net7.0\1042 - Simple Sort.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1042 - Simple Sort\obj\Debug\net7.0\1042 - Simple Sort.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1042 - Simple Sort\obj\Debug\net7.0\1042 - Simple Sort.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1042 - Simple Sort\obj\Debug\net7.0\1042 - Simple Sort.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1042 - Simple Sort\obj\Debug\net7.0\refint\1042 - Simple Sort.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1042 - Simple Sort\obj\Debug\net7.0\1042 - Simple Sort.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1042 - Simple Sort\obj\Debug\net7.0\1042 - Simple Sort.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1042 - Simple Sort\obj\Debug\net7.0\ref\1042 - Simple Sort.dll
