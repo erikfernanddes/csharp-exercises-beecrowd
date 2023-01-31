@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1044 - Multiples\bin\Debug\net7.0\1044 - Multiples.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1044 - Multiples\bin\Debug\net7.0\1044 - Multiples.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1044 - Multiples\bin\Debug\net7.0\1044 - Multiples.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1044 - Multiples\bin\Debug\net7.0\1044 - Multiples.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1044 - Multiples\bin\Debug\net7.0\1044 - Multiples.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1044 - Multiples\obj\Debug\net7.0\1044 - Multiples.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1044 - Multiples\obj\Debug\net7.0\1044 - Multiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1044 - Multiples\obj\Debug\net7.0\1044 - Multiples.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1044 - Multiples\obj\Debug\net7.0\1044 - Multiples.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1044 - Multiples\obj\Debug\net7.0\1044 - Multiples.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1044 - Multiples\obj\Debug\net7.0\1044 - Multiples.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1044 - Multiples\obj\Debug\net7.0\refint\1044 - Multiples.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1044 - Multiples\obj\Debug\net7.0\1044 - Multiples.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1044 - Multiples\obj\Debug\net7.0\1044 - Multiples.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\1044 - Multiples\obj\Debug\net7.0\ref\1044 - Multiples.dll
