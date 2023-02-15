@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1049 - Animal\bin\Debug\net7.0\1049 - Animal.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1049 - Animal\bin\Debug\net7.0\1049 - Animal.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1049 - Animal\bin\Debug\net7.0\1049 - Animal.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1049 - Animal\bin\Debug\net7.0\1049 - Animal.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1049 - Animal\bin\Debug\net7.0\1049 - Animal.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1049 - Animal\obj\Debug\net7.0\1049 - Animal.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1049 - Animal\obj\Debug\net7.0\1049 - Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1049 - Animal\obj\Debug\net7.0\1049 - Animal.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1049 - Animal\obj\Debug\net7.0\1049 - Animal.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1049 - Animal\obj\Debug\net7.0\1049 - Animal.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1049 - Animal\obj\Debug\net7.0\1049 - Animal.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1049 - Animal\obj\Debug\net7.0\refint\1049 - Animal.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1049 - Animal\obj\Debug\net7.0\1049 - Animal.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1049 - Animal\obj\Debug\net7.0\1049 - Animal.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1049 - Animal\obj\Debug\net7.0\ref\1049 - Animal.dll
