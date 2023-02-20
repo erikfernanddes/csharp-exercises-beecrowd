@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "1059 - Even Numbers/1.0.0": {
+        "runtime": {
+          "1059 - Even Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1059 - Even Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
