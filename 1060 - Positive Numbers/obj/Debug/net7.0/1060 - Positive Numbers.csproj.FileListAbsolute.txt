@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1060 - Positive Numbers\bin\Debug\net7.0\1060 - Positive Numbers.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1060 - Positive Numbers\bin\Debug\net7.0\1060 - Positive Numbers.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1060 - Positive Numbers\bin\Debug\net7.0\1060 - Positive Numbers.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1060 - Positive Numbers\bin\Debug\net7.0\1060 - Positive Numbers.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1060 - Positive Numbers\bin\Debug\net7.0\1060 - Positive Numbers.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1060 - Positive Numbers\obj\Debug\net7.0\1060 - Positive Numbers.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1060 - Positive Numbers\obj\Debug\net7.0\1060 - Positive Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1060 - Positive Numbers\obj\Debug\net7.0\1060 - Positive Numbers.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1060 - Positive Numbers\obj\Debug\net7.0\1060 - Positive Numbers.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1060 - Positive Numbers\obj\Debug\net7.0\1060 - Positive Numbers.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1060 - Positive Numbers\obj\Debug\net7.0\1060 - Positive Numbers.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1060 - Positive Numbers\obj\Debug\net7.0\refint\1060 - Positive Numbers.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1060 - Positive Numbers\obj\Debug\net7.0\1060 - Positive Numbers.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1060 - Positive Numbers\obj\Debug\net7.0\1060 - Positive Numbers.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1060 - Positive Numbers\obj\Debug\net7.0\ref\1060 - Positive Numbers.dll
