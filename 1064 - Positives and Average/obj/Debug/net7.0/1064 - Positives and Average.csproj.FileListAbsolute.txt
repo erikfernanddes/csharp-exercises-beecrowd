@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1064 - Positives and Average\bin\Debug\net7.0\1064 - Positives and Average.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1064 - Positives and Average\bin\Debug\net7.0\1064 - Positives and Average.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1064 - Positives and Average\bin\Debug\net7.0\1064 - Positives and Average.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1064 - Positives and Average\bin\Debug\net7.0\1064 - Positives and Average.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1064 - Positives and Average\bin\Debug\net7.0\1064 - Positives and Average.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1064 - Positives and Average\obj\Debug\net7.0\1064 - Positives and Average.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1064 - Positives and Average\obj\Debug\net7.0\1064 - Positives and Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1064 - Positives and Average\obj\Debug\net7.0\1064 - Positives and Average.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1064 - Positives and Average\obj\Debug\net7.0\1064 - Positives and Average.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1064 - Positives and Average\obj\Debug\net7.0\1064 - Positives and Average.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1064 - Positives and Average\obj\Debug\net7.0\1064 - Positives and Average.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1064 - Positives and Average\obj\Debug\net7.0\refint\1064 - Positives and Average.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1064 - Positives and Average\obj\Debug\net7.0\1064 - Positives and Average.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1064 - Positives and Average\obj\Debug\net7.0\1064 - Positives and Average.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1064 - Positives and Average\obj\Debug\net7.0\ref\1064 - Positives and Average.dll

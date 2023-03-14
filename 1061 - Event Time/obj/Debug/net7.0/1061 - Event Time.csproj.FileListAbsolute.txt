@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1061 - Event Time\bin\Debug\net7.0\1061 - Event Time.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1061 - Event Time\bin\Debug\net7.0\1061 - Event Time.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1061 - Event Time\bin\Debug\net7.0\1061 - Event Time.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1061 - Event Time\bin\Debug\net7.0\1061 - Event Time.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1061 - Event Time\bin\Debug\net7.0\1061 - Event Time.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1061 - Event Time\obj\Debug\net7.0\1061 - Event Time.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1061 - Event Time\obj\Debug\net7.0\1061 - Event Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1061 - Event Time\obj\Debug\net7.0\1061 - Event Time.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1061 - Event Time\obj\Debug\net7.0\1061 - Event Time.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1061 - Event Time\obj\Debug\net7.0\1061 - Event Time.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1061 - Event Time\obj\Debug\net7.0\1061 - Event Time.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1061 - Event Time\obj\Debug\net7.0\refint\1061 - Event Time.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1061 - Event Time\obj\Debug\net7.0\1061 - Event Time.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1061 - Event Time\obj\Debug\net7.0\1061 - Event Time.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1061 - Event Time\obj\Debug\net7.0\ref\1061 - Event Time.dll
