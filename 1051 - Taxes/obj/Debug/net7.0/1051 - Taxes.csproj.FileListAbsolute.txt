@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1051 - Taxes\bin\Debug\net7.0\1051 - Taxes.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1051 - Taxes\bin\Debug\net7.0\1051 - Taxes.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1051 - Taxes\bin\Debug\net7.0\1051 - Taxes.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1051 - Taxes\bin\Debug\net7.0\1051 - Taxes.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1051 - Taxes\bin\Debug\net7.0\1051 - Taxes.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1051 - Taxes\obj\Debug\net7.0\1051 - Taxes.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1051 - Taxes\obj\Debug\net7.0\1051 - Taxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1051 - Taxes\obj\Debug\net7.0\1051 - Taxes.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1051 - Taxes\obj\Debug\net7.0\1051 - Taxes.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1051 - Taxes\obj\Debug\net7.0\1051 - Taxes.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1051 - Taxes\obj\Debug\net7.0\1051 - Taxes.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1051 - Taxes\obj\Debug\net7.0\refint\1051 - Taxes.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1051 - Taxes\obj\Debug\net7.0\1051 - Taxes.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1051 - Taxes\obj\Debug\net7.0\1051 - Taxes.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1051 - Taxes\obj\Debug\net7.0\ref\1051 - Taxes.dll
