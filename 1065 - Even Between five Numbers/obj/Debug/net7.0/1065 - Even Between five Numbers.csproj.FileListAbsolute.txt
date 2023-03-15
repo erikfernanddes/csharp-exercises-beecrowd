@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1065 - Even Between five Numbers\bin\Debug\net7.0\1065 - Even Between five Numbers.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1065 - Even Between five Numbers\bin\Debug\net7.0\1065 - Even Between five Numbers.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1065 - Even Between five Numbers\bin\Debug\net7.0\1065 - Even Between five Numbers.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1065 - Even Between five Numbers\bin\Debug\net7.0\1065 - Even Between five Numbers.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1065 - Even Between five Numbers\bin\Debug\net7.0\1065 - Even Between five Numbers.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1065 - Even Between five Numbers\obj\Debug\net7.0\1065 - Even Between five Numbers.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1065 - Even Between five Numbers\obj\Debug\net7.0\1065 - Even Between five Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1065 - Even Between five Numbers\obj\Debug\net7.0\1065 - Even Between five Numbers.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1065 - Even Between five Numbers\obj\Debug\net7.0\1065 - Even Between five Numbers.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1065 - Even Between five Numbers\obj\Debug\net7.0\1065 - Even Between five Numbers.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1065 - Even Between five Numbers\obj\Debug\net7.0\1065 - Even Between five Numbers.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1065 - Even Between five Numbers\obj\Debug\net7.0\refint\1065 - Even Between five Numbers.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1065 - Even Between five Numbers\obj\Debug\net7.0\1065 - Even Between five Numbers.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1065 - Even Between five Numbers\obj\Debug\net7.0\1065 - Even Between five Numbers.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1065 - Even Between five Numbers\obj\Debug\net7.0\ref\1065 - Even Between five Numbers.dll
