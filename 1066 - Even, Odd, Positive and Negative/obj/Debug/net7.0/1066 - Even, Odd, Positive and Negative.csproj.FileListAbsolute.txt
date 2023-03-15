@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1066 - Even, Odd, Positive and Negative\bin\Debug\net7.0\1066 - Even, Odd, Positive and Negative.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1066 - Even, Odd, Positive and Negative\bin\Debug\net7.0\1066 - Even, Odd, Positive and Negative.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1066 - Even, Odd, Positive and Negative\bin\Debug\net7.0\1066 - Even, Odd, Positive and Negative.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1066 - Even, Odd, Positive and Negative\bin\Debug\net7.0\1066 - Even, Odd, Positive and Negative.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1066 - Even, Odd, Positive and Negative\bin\Debug\net7.0\1066 - Even, Odd, Positive and Negative.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1066 - Even, Odd, Positive and Negative\obj\Debug\net7.0\1066 - Even, Odd, Positive and Negative.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1066 - Even, Odd, Positive and Negative\obj\Debug\net7.0\1066 - Even, Odd, Positive and Negative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1066 - Even, Odd, Positive and Negative\obj\Debug\net7.0\1066 - Even, Odd, Positive and Negative.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1066 - Even, Odd, Positive and Negative\obj\Debug\net7.0\1066 - Even, Odd, Positive and Negative.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1066 - Even, Odd, Positive and Negative\obj\Debug\net7.0\1066 - Even, Odd, Positive and Negative.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1066 - Even, Odd, Positive and Negative\obj\Debug\net7.0\1066 - Even, Odd, Positive and Negative.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1066 - Even, Odd, Positive and Negative\obj\Debug\net7.0\refint\1066 - Even, Odd, Positive and Negative.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1066 - Even, Odd, Positive and Negative\obj\Debug\net7.0\1066 - Even, Odd, Positive and Negative.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1066 - Even, Odd, Positive and Negative\obj\Debug\net7.0\1066 - Even, Odd, Positive and Negative.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\1066 - Even, Odd, Positive and Negative\obj\Debug\net7.0\ref\1066 - Even, Odd, Positive and Negative.dll
