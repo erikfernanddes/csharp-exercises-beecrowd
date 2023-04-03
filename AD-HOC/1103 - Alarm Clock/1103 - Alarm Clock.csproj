@@ -5,7 +5,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <RootNamespace>_1103___Alarm_Clock</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
   </PropertyGroup>
 
 </Project>

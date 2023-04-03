@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erick\\OneDrive\\Documentos\\Estudos\\Programação\\C#\\Exercicios\\EXERCICIOS\\AD-HOC\\1103 - Alarm Clock\\1103 - Alarm Clock.csproj": {}
+    "C:\\Users\\erick\\OneDrive\\Documentos\\Estudos\\Programação\\GitHub\\CSharp-Exercises-Beecrowd\\AD-HOC\\1103 - Alarm Clock\\1103 - Alarm Clock.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erick\\OneDrive\\Documentos\\Estudos\\Programação\\C#\\Exercicios\\EXERCICIOS\\AD-HOC\\1103 - Alarm Clock\\1103 - Alarm Clock.csproj": {
+    "C:\\Users\\erick\\OneDrive\\Documentos\\Estudos\\Programação\\GitHub\\CSharp-Exercises-Beecrowd\\AD-HOC\\1103 - Alarm Clock\\1103 - Alarm Clock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Documentos\\Estudos\\Programação\\C#\\Exercicios\\EXERCICIOS\\AD-HOC\\1103 - Alarm Clock\\1103 - Alarm Clock.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Documentos\\Estudos\\Programação\\GitHub\\CSharp-Exercises-Beecrowd\\AD-HOC\\1103 - Alarm Clock\\1103 - Alarm Clock.csproj",
         "projectName": "1103 - Alarm Clock",
-        "projectPath": "C:\\Users\\erick\\OneDrive\\Documentos\\Estudos\\Programação\\C#\\Exercicios\\EXERCICIOS\\AD-HOC\\1103 - Alarm Clock\\1103 - Alarm Clock.csproj",
+        "projectPath": "C:\\Users\\erick\\OneDrive\\Documentos\\Estudos\\Programação\\GitHub\\CSharp-Exercises-Beecrowd\\AD-HOC\\1103 - Alarm Clock\\1103 - Alarm Clock.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick\\OneDrive\\Documentos\\Estudos\\Programação\\C#\\Exercicios\\EXERCICIOS\\AD-HOC\\1103 - Alarm Clock\\obj\\",
+        "outputPath": "C:\\Users\\erick\\OneDrive\\Documentos\\Estudos\\Programação\\GitHub\\CSharp-Exercises-Beecrowd\\AD-HOC\\1103 - Alarm Clock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"

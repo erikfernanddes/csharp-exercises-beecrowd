@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1103 - Alarm Clock\bin\Debug\net7.0\1103 - Alarm Clock.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1103 - Alarm Clock\bin\Debug\net7.0\1103 - Alarm Clock.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1103 - Alarm Clock\bin\Debug\net7.0\1103 - Alarm Clock.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1103 - Alarm Clock\bin\Debug\net7.0\1103 - Alarm Clock.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1103 - Alarm Clock\bin\Debug\net7.0\1103 - Alarm Clock.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1103 - Alarm Clock\obj\Debug\net7.0\1103 - Alarm Clock.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1103 - Alarm Clock\obj\Debug\net7.0\1103 - Alarm Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1103 - Alarm Clock\obj\Debug\net7.0\1103 - Alarm Clock.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1103 - Alarm Clock\obj\Debug\net7.0\1103 - Alarm Clock.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1103 - Alarm Clock\obj\Debug\net7.0\1103 - Alarm Clock.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1103 - Alarm Clock\obj\Debug\net7.0\1103 - Alarm Clock.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1103 - Alarm Clock\obj\Debug\net7.0\refint\1103 - Alarm Clock.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1103 - Alarm Clock\obj\Debug\net7.0\1103 - Alarm Clock.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1103 - Alarm Clock\obj\Debug\net7.0\1103 - Alarm Clock.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1103 - Alarm Clock\obj\Debug\net7.0\ref\1103 - Alarm Clock.dll
