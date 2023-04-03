@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "1329 - Head or Tail/1.0.0": {
+        "runtime": {
+          "1329 - Head or Tail.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1329 - Head or Tail/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

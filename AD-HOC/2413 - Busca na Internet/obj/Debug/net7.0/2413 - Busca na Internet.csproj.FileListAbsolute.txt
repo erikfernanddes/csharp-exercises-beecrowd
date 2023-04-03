@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\AD-HOC\2413 - Busca na Internet\bin\Debug\net7.0\2413 - Busca na Internet.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\AD-HOC\2413 - Busca na Internet\bin\Debug\net7.0\2413 - Busca na Internet.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\AD-HOC\2413 - Busca na Internet\bin\Debug\net7.0\2413 - Busca na Internet.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\AD-HOC\2413 - Busca na Internet\bin\Debug\net7.0\2413 - Busca na Internet.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\AD-HOC\2413 - Busca na Internet\bin\Debug\net7.0\2413 - Busca na Internet.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\AD-HOC\2413 - Busca na Internet\obj\Debug\net7.0\2413 - Busca na Internet.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\AD-HOC\2413 - Busca na Internet\obj\Debug\net7.0\2413 - Busca na Internet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\AD-HOC\2413 - Busca na Internet\obj\Debug\net7.0\2413 - Busca na Internet.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\AD-HOC\2413 - Busca na Internet\obj\Debug\net7.0\2413 - Busca na Internet.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\AD-HOC\2413 - Busca na Internet\obj\Debug\net7.0\2413 - Busca na Internet.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\AD-HOC\2413 - Busca na Internet\obj\Debug\net7.0\2413 - Busca na Internet.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\AD-HOC\2413 - Busca na Internet\obj\Debug\net7.0\refint\2413 - Busca na Internet.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\AD-HOC\2413 - Busca na Internet\obj\Debug\net7.0\2413 - Busca na Internet.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\AD-HOC\2413 - Busca na Internet\obj\Debug\net7.0\2413 - Busca na Internet.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\C#\Exercicios\EXERCICIOS\AD-HOC\2413 - Busca na Internet\obj\Debug\net7.0\ref\2413 - Busca na Internet.dll
