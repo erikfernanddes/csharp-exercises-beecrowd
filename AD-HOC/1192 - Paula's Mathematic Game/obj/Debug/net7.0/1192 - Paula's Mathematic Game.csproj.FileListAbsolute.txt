@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1192 - Paula's Mathematic Game\bin\Debug\net7.0\1192 - Paula's Mathematic Game.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1192 - Paula's Mathematic Game\bin\Debug\net7.0\1192 - Paula's Mathematic Game.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1192 - Paula's Mathematic Game\bin\Debug\net7.0\1192 - Paula's Mathematic Game.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1192 - Paula's Mathematic Game\bin\Debug\net7.0\1192 - Paula's Mathematic Game.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1192 - Paula's Mathematic Game\bin\Debug\net7.0\1192 - Paula's Mathematic Game.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1192 - Paula's Mathematic Game\obj\Debug\net7.0\1192 - Paula's Mathematic Game.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1192 - Paula's Mathematic Game\obj\Debug\net7.0\1192 - Paula's Mathematic Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1192 - Paula's Mathematic Game\obj\Debug\net7.0\1192 - Paula's Mathematic Game.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1192 - Paula's Mathematic Game\obj\Debug\net7.0\1192 - Paula's Mathematic Game.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1192 - Paula's Mathematic Game\obj\Debug\net7.0\1192 - Paula's Mathematic Game.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1192 - Paula's Mathematic Game\obj\Debug\net7.0\1192 - Paula's Mathematic Game.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1192 - Paula's Mathematic Game\obj\Debug\net7.0\refint\1192 - Paula's Mathematic Game.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1192 - Paula's Mathematic Game\obj\Debug\net7.0\1192 - Paula's Mathematic Game.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1192 - Paula's Mathematic Game\obj\Debug\net7.0\1192 - Paula's Mathematic Game.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\Programação\GitHub\CSharp-Exercises-Beecrowd\AD-HOC\1192 - Paula's Mathematic Game\obj\Debug\net7.0\ref\1192 - Paula's Mathematic Game.dll
