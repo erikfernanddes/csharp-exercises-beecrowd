@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1080 - Highest and Position\bin\Debug\net7.0\1080 - Highest and Position.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1080 - Highest and Position\bin\Debug\net7.0\1080 - Highest and Position.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1080 - Highest and Position\bin\Debug\net7.0\1080 - Highest and Position.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1080 - Highest and Position\bin\Debug\net7.0\1080 - Highest and Position.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1080 - Highest and Position\bin\Debug\net7.0\1080 - Highest and Position.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1080 - Highest and Position\obj\Debug\net7.0\1080 - Highest and Position.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1080 - Highest and Position\obj\Debug\net7.0\1080 - Highest and Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1080 - Highest and Position\obj\Debug\net7.0\1080 - Highest and Position.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1080 - Highest and Position\obj\Debug\net7.0\1080 - Highest and Position.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1080 - Highest and Position\obj\Debug\net7.0\1080 - Highest and Position.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1080 - Highest and Position\obj\Debug\net7.0\1080 - Highest and Position.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1080 - Highest and Position\obj\Debug\net7.0\refint\1080 - Highest and Position.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1080 - Highest and Position\obj\Debug\net7.0\1080 - Highest and Position.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1080 - Highest and Position\obj\Debug\net7.0\1080 - Highest and Position.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1080 - Highest and Position\obj\Debug\net7.0\ref\1080 - Highest and Position.dll
