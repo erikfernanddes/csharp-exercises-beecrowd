@@ -1,0 +1,15 @@
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1095 - Sequence IJ 1\bin\Debug\net7.0\1095 - Sequence IJ 1.exe
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1095 - Sequence IJ 1\bin\Debug\net7.0\1095 - Sequence IJ 1.deps.json
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1095 - Sequence IJ 1\bin\Debug\net7.0\1095 - Sequence IJ 1.runtimeconfig.json
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1095 - Sequence IJ 1\bin\Debug\net7.0\1095 - Sequence IJ 1.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1095 - Sequence IJ 1\bin\Debug\net7.0\1095 - Sequence IJ 1.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1095 - Sequence IJ 1\obj\Debug\net7.0\1095 - Sequence IJ 1.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1095 - Sequence IJ 1\obj\Debug\net7.0\1095 - Sequence IJ 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1095 - Sequence IJ 1\obj\Debug\net7.0\1095 - Sequence IJ 1.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1095 - Sequence IJ 1\obj\Debug\net7.0\1095 - Sequence IJ 1.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1095 - Sequence IJ 1\obj\Debug\net7.0\1095 - Sequence IJ 1.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1095 - Sequence IJ 1\obj\Debug\net7.0\1095 - Sequence IJ 1.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1095 - Sequence IJ 1\obj\Debug\net7.0\refint\1095 - Sequence IJ 1.dll
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1095 - Sequence IJ 1\obj\Debug\net7.0\1095 - Sequence IJ 1.pdb
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1095 - Sequence IJ 1\obj\Debug\net7.0\1095 - Sequence IJ 1.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Documentos\Estudos\csharp-exercises-beecrowd\Beginner\1095 - Sequence IJ 1\obj\Debug\net7.0\ref\1095 - Sequence IJ 1.dll
